@@ -1,4 +1,4 @@
-# Extremal learning
+# Extremal Learning
 
 Neural networks allow us to model complex relationships between variables. We
 show how to efficiently find extrema of a trained neural network in regression
