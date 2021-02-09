@@ -9,4 +9,4 @@ incorporate additional constraints on the input vector such as limiting the
 extrapolation of the extremizing input vector from the original training
 dataset.
 
-This is an instructional example of this approach using Tensorflow.
+This is an instructional example of this approach using Tensorflow. For more information on extremal learning, see https://arxiv.org/abs/2102.03626
